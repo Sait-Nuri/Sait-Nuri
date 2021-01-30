@@ -13,7 +13,7 @@
 
 <h3 align="left">Contact Me:</h3>
 
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/snuyanik" target="blank"><img src="https://img.shields.io/twitter/follow/snuyanik?logo=twitter"/></a>
 <a href="https://linkedin.com/in/snuyanik"><img src="https://img.shields.io/badge/-snuyanik-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
