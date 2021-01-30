@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sait-nuri&label=Profile%20views&color=0e75b6&style=flat" alt="sait-nuri" /> </p>
 
-<p align="left"> <a href="https://twitter.com/snuyanik" target="blank"><img src="https://img.shields.io/twitter/follow/snuyanik?logo=twitter&style=for-the-badge" alt="snuyanik" /></a> </p>
+[![Twitter: snuyanik](https://img.shields.io/twitter/follow/snuyanik?logo=twitter&style=for-the-badge)](https://twitter.com/snuyanik)
+[![Linkedin: snuyanik](https://img.shields.io/badge/-snuyanik-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/snuyanik/)](https://www.linkedin.com/in/snuyanik/)
+[![GitHub Sait-Nuri](https://img.shields.io/github/followers/Sait-Nuri?label=follow&style=social)](https://github.com/Sait-Nuri)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sait-Nuri](https://github.com/Sait-Nuri)
 
