@@ -11,12 +11,11 @@
 - 💾 &nbsp;All of my projects are available at [https://github.com/Sait-Nuri](https://github.com/Sait-Nuri)
 - ✉️ &nbsp;You can shoot me an email at saitnuriuyanik\[at\]gmail.com. I'll try to respond as soon as I can.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sait-nuri&label=Profile%20views&color=0e75b6&style=flat" alt="sait-nuri" /> </p>
-
 <h3 align="left">Contact Me:</h3>
-<p align="left">
-<a href="https://twitter.com/snuyanik" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/snuyanik?logo=twitter&style=for-the-badge" alt="snuyanik" /></a><br><br>
-<a href="https://medium.com/@snuyanik" target="blank"><img align="center" src="https://img.shields.io/badge/-snuyanik-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/snuyanik" alt="@snuyanik" /></a>
+
+<p align="center">
+<a href="https://twitter.com/snuyanik" target="blank"><img src="https://img.shields.io/twitter/follow/snuyanik?logo=twitter"/></a>
+<a href="https://linkedin.com/in/snuyanik"><img src="https://img.shields.io/badge/-snuyanik-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sait-nuri&show_icons=true&locale=en" alt="sait-nuri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sait-nuri&" alt="sait-nuri" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sait-nuri&label=Profile%20views&color=0e75b6&style=flat" alt="sait-nuri" /> </p>
