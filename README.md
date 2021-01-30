@@ -5,7 +5,9 @@
 
 [![Twitter: snuyanik](https://img.shields.io/twitter/follow/snuyanik?logo=twitter&style=for-the-badge)](https://twitter.com/snuyanik)
 [![Linkedin: snuyanik](https://img.shields.io/badge/-snuyanik-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/snuyanik/)](https://www.linkedin.com/in/snuyanik/)
+
 [![GitHub Sait-Nuri](https://img.shields.io/github/followers/Sait-Nuri?label=follow&style=social)](https://github.com/Sait-Nuri)
+[![GitHub Sait-Nuri](https://komarev.com/ghpvc/?username=sait-nuri&label=Profile%20views&style=social)](https://github.com/Sait-Nuri)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sait-Nuri](https://github.com/Sait-Nuri)
 
@@ -13,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/snuyanik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="snuyanik" height="30" width="40" /></a>
-<a href="https://medium.com/@snuyanik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@snuyanik" height="30" width="40" /></a>
+<a href="https://twitter.com/snuyanik" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/snuyanik?logo=twitter&style=for-the-badge" alt="snuyanik" /></a>
+<a href="https://medium.com/@snuyanik" target="blank"><img align="center" src="https://img.shields.io/badge/-snuyanik-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/snuyanik" alt="@snuyanik" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
