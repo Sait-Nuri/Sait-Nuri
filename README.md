@@ -1,4 +1,4 @@
-<h2>Hey there! <img alt="Night Coding" src="./images/Hand%20Wave.gif" width='30' align="left"/>, I'm Sait Nuri</h2>
+<h2>Hey there! <img alt="Night Coding" src="./images/Hand%20Wave.gif" width='30' align="left"/> I'm Sait Nuri</h2>
 
 <h3 align="center">Penetration Tester and a Developer</h3>
 
