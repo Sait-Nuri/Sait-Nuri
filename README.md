@@ -1,10 +1,15 @@
 <h2>Hey there! <img alt="Night Coding" src="./images/Hand%20Wave.gif" width='30' align="left"/> I'm Sait Nuri</h2>
 
-<h3 align="center">Penetration Tester and a Developer</h3>
+### 👨🏻‍💻 &nbsp;About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sait-Nuri](https://github.com/Sait-Nuri)
-
-- 📝 I regularly write articles on [snuyanik.medium.com](snuyanik.medium.com)
+- 💀  &nbsp;&nbsp;I am Penetration Tester (also known as Ethical Hacker or Assurance Validator) and Software Developer
+- 💻 &nbsp;I'm currently working as Senior Penetration Test Engineer.
+- 💡 &nbsp;&nbsp; I'm on track for learning more about Cyber Security, Internet Technologies and Software Development News, Trends & Best Practices.
+- ⌨️ &nbsp;I develop security tools & scripts, reading & maintaning exploit source code. 
+- 💬 &nbsp;You can contact me with [Twitter](https://twitter.com/snuyanik) or [LinkedIn](https://www.linkedin.com/in/snuyanik)
+- 📝 &nbsp;I regularly write articles on [snuyanik.medium.com](snuyanik.medium.com)
+- 💾 &nbsp;All of my projects are available at [https://github.com/Sait-Nuri](https://github.com/Sait-Nuri)
+- ✉️ &nbsp;You can shoot me an email at saitnuriuyanik\[at\]gmail.com. I'll try to respond as soon as I can.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sait-nuri&label=Profile%20views&color=0e75b6&style=flat" alt="sait-nuri" /> </p>
 
