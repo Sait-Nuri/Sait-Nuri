@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./images/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Sait Nuri</h2>
+<img alt="Night Coding" src="./images/Hand%20Wave.gif" width='30' align="left"/><h2>Hey there! I'm Sait Nuri</h2>
 <h3 align="center">Penetration Tester and a Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sait-Nuri](https://github.com/Sait-Nuri)
